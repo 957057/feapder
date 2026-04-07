@@ -86,7 +86,7 @@ class FirstSpider(feapder.AirSpider):
 
 if __name__ == "__main__":
     FirstSpider().start()
-        
+
 ```
 
 直接运行，打印如下：
@@ -115,30 +115,30 @@ FirstSpider|2021-02-09 14:55:14,620|air_spider.py|run|line:80|INFO| 无任务，
 3. 验证码识别库：https://github.com/sml2h3/ddddocr
 
 
-## 微信赞赏
+<!-- ## 微信赞赏
 
 如果您觉得这个项目帮助到了您，您可以帮作者买一杯咖啡表示鼓励 🍹
 
 也可和作者交个朋友，解决您在使用过程中遇到的问题
 
 
-![赞赏码](http://markdown-media.oss-cn-beijing.aliyuncs.com/2021/03/16/zan-shang-ma.png)
+![赞赏码](http://markdown-media.oss-cn-beijing.aliyuncs.com/2021/03/16/zan-shang-ma.png) -->
 
 ## 学习交流
 
-<table border="0"> 
-    <tr> 
-     <td> 知识星球：17321694 </td> 
-     <td> 作者微信： boris_tm </td> 
-     <td> QQ群号：485067374 </td> 
-    </tr> 
-    <tr> 
+<table border="0">
+    <tr>
+     <td> 知识星球：17321694 </td>
+     <td> 作者微信： boris_tm </td>
+     <td> QQ群号：521494615</td>
+    </tr>
+    <tr>
     <td> <img src="http://markdown-media.oss-cn-beijing.aliyuncs.com/2020/02/16/zhi-shi-xing-qiu.jpeg" width=250px>
- </td> 
-     <td> <img src="http://markdown-media.oss-cn-beijing.aliyuncs.com/2021/07/12/er-wei-ma.jpeg?x-oss-process=style/markdown-media" width="250px" /> </td> 
-     <td> <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8byl060lnj30ku11c76h.jpg" width="250px" /> </td> 
-    </tr> 
-  </table> 
+ </td>
+     <td> <img src="http://markdown-media.oss-cn-beijing.aliyuncs.com/2021/07/12/er-wei-ma.jpeg?x-oss-process=style/markdown-media" width="250px" /> </td>
+     <td> <img src="http://markdown-media.oss-cn-beijing.aliyuncs.com/2024/04/28/17142933285892.jpg" width="250px" /> </td>
+    </tr>
+  </table>
 
 
   加好友备注：feapder
