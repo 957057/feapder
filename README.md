@@ -108,13 +108,28 @@ FirstSpider|2021-02-09 14:55:14,620|air_spider.py|run|line:80|INFO| 无任务，
 2. parse： 解析数据
 
 
-## 感谢Rapidproxy代理赞助
+## 感谢以下代理赞助商
+
+### Rapidproxy代理
+
+<!--5.3-->
 
 <a href="https://www.rapidproxy.io/?ref=boris " target="_blank">
 
 <img src="https://markdown-media.oss-cn-beijing.aliyuncs.com/2026/04/03/github-2.png">
 
 </a>
+
+### SWIFTPROXY
+
+<!--5.16-->
+
+<a href="https://www.swiftproxy.net/?ref=boris" target="_blank">
+
+<img src="https://markdown-media.oss-cn-beijing.aliyuncs.com/2026/04/16/728x90.png">
+
+</a>
+
 
 ## 参与贡献
 
