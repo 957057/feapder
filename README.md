@@ -126,7 +126,7 @@ FirstSpider|2021-02-09 14:55:14,620|air_spider.py|run|line:80|INFO| 无任务，
 
 <a href="https://www.swiftproxy.net/?ref=boris" target="_blank">
 
-<img src="https://markdown-media.oss-cn-beijing.aliyuncs.com/2026/04/16/728x90.png">
+<img src="https://markdown-media.oss-cn-beijing.aliyuncs.com/2026/04/17/mmexport1776389746816.jpg">
 
 </a>
 
