@@ -130,6 +130,14 @@ FirstSpider|2021-02-09 14:55:14,620|air_spider.py|run|line:80|INFO| 无任务，
 
 </a>
 
+### NovProxy
+
+<a href="https://novproxy.com?kwd=tt-git" target="_blank">
+
+<img src="https://markdown-media.oss-cn-beijing.aliyuncs.com/2026/04/24/mmexport1777023699277.jpg">
+
+</a>
+
 
 ## 参与贡献
 
